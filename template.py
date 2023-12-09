@@ -24,8 +24,9 @@ list_of_files = [
     "dvc.yaml",
     "prams.yaml",
     "requirements.txt",
-    "setupy.py",
+    "setup.py",
     "research/trials.ipynb",
+    "templates/index.html"
     
 ]
 
